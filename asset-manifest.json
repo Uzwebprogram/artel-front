@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fdbc8f61.css",
+    "main.js": "/static/js/main.2161457d.js",
+    "static/media/nakleka.png": "/static/media/nakleka.0ad4a2d30a5448851d56.png",
+    "static/media/Business analytics-amico 1.svg": "/static/media/Business analytics-amico 1.08d017f5e187153301f0e5fc0a5abcb7.svg",
+    "static/media/Design stats-pana 1.png": "/static/media/Design stats-pana 1.1af32a24498fdef4ebf0.png",
+    "index.html": "/index.html",
+    "static/media/uzbekistan-flag-icon.svg": "/static/media/uzbekistan-flag-icon.7a31f1e5de093a5fd075cd357e8d278c.svg",
+    "main.fdbc8f61.css.map": "/static/css/main.fdbc8f61.css.map",
+    "main.2161457d.js.map": "/static/js/main.2161457d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdbc8f61.css",
+    "static/js/main.2161457d.js"
+  ]
+}
